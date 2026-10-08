@@ -57,7 +57,7 @@ The main objective is to build a predictive model that can estimate food deliver
 
 1. Clone the Repository
 
-git clone <your-repository-url>
+git clone <https://github.com/DiviData02/Swiggy_Delivery_Time_Prediction>
 
 2. Open the Project Folder
 
